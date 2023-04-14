@@ -1,2 +1,2 @@
-# web-layout-1
+# web-layout1
 Web Template to speed up development
